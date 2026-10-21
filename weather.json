@@ -1,0 +1,81 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21T14:56:42.541970+09:00",
+ "source": "KMA getUltraSrtNcst (기상청 초단기실황)",
+ "attribution": "기상청",
+ "cities": {
+  "seoul": {
+   "tempC": 14.7,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 6.1,
+   "humidity": 32.0,
+   "observedAt": "2026-10-21T14:00:00+09:00",
+   "stale": false
+  },
+  "incheon": {
+   "tempC": 15.1,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 2.2,
+   "humidity": 42.0,
+   "observedAt": "2026-10-21T14:00:00+09:00",
+   "stale": false
+  },
+  "daejeon": {
+   "tempC": 17.8,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 7.4,
+   "humidity": 34.0,
+   "observedAt": "2026-10-21T14:00:00+09:00",
+   "stale": false
+  },
+  "daegu": {
+   "tempC": 18.8,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 2.2,
+   "humidity": 55.0,
+   "observedAt": "2026-10-21T14:00:00+09:00",
+   "stale": false
+  },
+  "gwangju": {
+   "tempC": 17.8,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 3.9,
+   "humidity": 49.0,
+   "observedAt": "2026-10-21T14:00:00+09:00",
+   "stale": false
+  },
+  "busan": {
+   "tempC": 20.4,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 2.2,
+   "humidity": 52.0,
+   "observedAt": "2026-10-21T14:00:00+09:00",
+   "stale": false
+  },
+  "ulsan": {
+   "tempC": 19.3,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 2.6,
+   "humidity": 53.0,
+   "observedAt": "2026-10-21T14:00:00+09:00",
+   "stale": false
+  },
+  "jeju": {
+   "tempC": 20.1,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 6.0,
+   "humidity": 61.0,
+   "observedAt": "2026-10-21T14:00:00+09:00",
+   "stale": false
+  }
+ },
+ "failures": []
+}
