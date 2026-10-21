@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-21T14:56:55.268394+09:00",
+ "generatedAt": "2026-10-21T20:48:15.707250+09:00",
  "source": "KMA getUltraSrtNcst (기상청 초단기실황)",
  "attribution": "기상청",
  "cities": {
@@ -11,7 +11,7 @@
    "wind": 6.1,
    "humidity": 32.0,
    "observedAt": "2026-10-21T14:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "incheon": {
    "tempC": 15.1,
@@ -20,7 +20,7 @@
    "wind": 2.2,
    "humidity": 42.0,
    "observedAt": "2026-10-21T14:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "daejeon": {
    "tempC": 17.8,
@@ -29,7 +29,7 @@
    "wind": 7.4,
    "humidity": 34.0,
    "observedAt": "2026-10-21T14:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "daegu": {
    "tempC": 18.8,
@@ -38,7 +38,7 @@
    "wind": 2.2,
    "humidity": 55.0,
    "observedAt": "2026-10-21T14:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "gwangju": {
    "tempC": 17.8,
@@ -47,7 +47,7 @@
    "wind": 3.9,
    "humidity": 49.0,
    "observedAt": "2026-10-21T14:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "busan": {
    "tempC": 20.4,
@@ -56,7 +56,7 @@
    "wind": 2.2,
    "humidity": 52.0,
    "observedAt": "2026-10-21T14:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "ulsan": {
    "tempC": 19.3,
@@ -65,7 +65,7 @@
    "wind": 2.6,
    "humidity": 53.0,
    "observedAt": "2026-10-21T14:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "jeju": {
    "tempC": 20.1,
@@ -74,8 +74,17 @@
    "wind": 6.0,
    "humidity": 61.0,
    "observedAt": "2026-10-21T14:00:00+09:00",
-   "stale": false
+   "stale": true
   }
  },
- "failures": []
+ "failures": [
+  "seoul: URLError <urlopen error timed out>",
+  "incheon: URLError <urlopen error timed out>",
+  "daejeon: URLError <urlopen error timed out>",
+  "daegu: URLError <urlopen error timed out>",
+  "gwangju: URLError <urlopen error timed out>",
+  "busan: URLError <urlopen error timed out>",
+  "ulsan: URLError <urlopen error timed out>",
+  "jeju: URLError <urlopen error timed out>"
+ ]
 }
