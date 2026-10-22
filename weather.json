@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-22T19:10:24.858255+09:00",
+ "generatedAt": "2026-10-23T00:19:44.737570+09:00",
  "source": "KMA getUltraSrtNcst (기상청 초단기실황)",
  "attribution": "기상청",
  "cities": {
@@ -11,7 +11,7 @@
    "wind": 1.8,
    "humidity": 36.0,
    "observedAt": "2026-10-22T18:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "incheon": {
    "tempC": 8.8,
@@ -20,7 +20,7 @@
    "wind": 0.6,
    "humidity": 60.0,
    "observedAt": "2026-10-22T18:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "daejeon": {
    "tempC": 12.1,
@@ -29,7 +29,7 @@
    "wind": 1.4,
    "humidity": 48.0,
    "observedAt": "2026-10-22T18:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "daegu": {
    "tempC": 14.6,
@@ -38,7 +38,7 @@
    "wind": 2.5,
    "humidity": 44.0,
    "observedAt": "2026-10-22T18:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "gwangju": {
    "tempC": 13.1,
@@ -47,7 +47,7 @@
    "wind": 1.0,
    "humidity": 54.0,
    "observedAt": "2026-10-22T18:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "busan": {
    "tempC": 13.8,
@@ -56,7 +56,7 @@
    "wind": 1.4,
    "humidity": 53.0,
    "observedAt": "2026-10-22T18:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "ulsan": {
    "tempC": 12.8,
@@ -65,7 +65,7 @@
    "wind": 1.5,
    "humidity": 64.0,
    "observedAt": "2026-10-22T18:00:00+09:00",
-   "stale": false
+   "stale": true
   },
   "jeju": {
    "tempC": 16.0,
@@ -74,8 +74,17 @@
    "wind": 2.4,
    "humidity": 52.0,
    "observedAt": "2026-10-22T18:00:00+09:00",
-   "stale": false
+   "stale": true
   }
  },
- "failures": []
+ "failures": [
+  "seoul: URLError <urlopen error timed out>",
+  "incheon: URLError <urlopen error timed out>",
+  "daejeon: URLError <urlopen error timed out>",
+  "daegu: URLError <urlopen error timed out>",
+  "gwangju: URLError <urlopen error timed out>",
+  "busan: URLError <urlopen error timed out>",
+  "ulsan: URLError <urlopen error timed out>",
+  "jeju: URLError <urlopen error timed out>"
+ ]
 }
