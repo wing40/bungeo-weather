@@ -1,90 +1,81 @@
 {
  "version": 1,
- "generatedAt": "2026-10-29T21:59:36.983006+09:00",
+ "generatedAt": "2026-10-30T03:57:37.464802+09:00",
  "source": "KMA getUltraSrtNcst (기상청 초단기실황)",
  "attribution": "기상청",
  "cities": {
   "seoul": {
-   "tempC": 9.0,
+   "tempC": 7.0,
    "pty": 0,
    "rain1h": 0.0,
-   "wind": 2.1,
-   "humidity": 58.0,
-   "observedAt": "2026-10-29T14:00:00+09:00",
-   "stale": true
+   "wind": 2.0,
+   "humidity": 87.0,
+   "observedAt": "2026-10-30T03:00:00+09:00",
+   "stale": false
   },
   "incheon": {
-   "tempC": 12.3,
+   "tempC": 5.8,
    "pty": 0,
    "rain1h": 0.0,
-   "wind": 1.5,
-   "humidity": 43.0,
-   "observedAt": "2026-10-29T14:00:00+09:00",
-   "stale": true
+   "wind": 0.1,
+   "humidity": 100.0,
+   "observedAt": "2026-10-30T03:00:00+09:00",
+   "stale": false
   },
   "daejeon": {
-   "tempC": 12.6,
+   "tempC": 10.1,
    "pty": 0,
    "rain1h": 0.0,
-   "wind": 0.7,
-   "humidity": 45.0,
-   "observedAt": "2026-10-29T14:00:00+09:00",
-   "stale": true
+   "wind": 1.1,
+   "humidity": 92.0,
+   "observedAt": "2026-10-30T03:00:00+09:00",
+   "stale": false
   },
   "daegu": {
-   "tempC": 11.4,
+   "tempC": 10.0,
+   "pty": 1,
+   "rain1h": 1.0,
+   "wind": 0.9,
+   "humidity": 92.0,
+   "observedAt": "2026-10-30T03:00:00+09:00",
+   "stale": false
+  },
+  "gwangju": {
+   "tempC": 11.2,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 0.5,
+   "humidity": 95.0,
+   "observedAt": "2026-10-30T03:00:00+09:00",
+   "stale": false
+  },
+  "busan": {
+   "tempC": 13.2,
    "pty": 0,
    "rain1h": 0.0,
    "wind": 0.6,
-   "humidity": 51.0,
-   "observedAt": "2026-10-29T14:00:00+09:00",
-   "stale": true
-  },
-  "gwangju": {
-   "tempC": 12.0,
-   "pty": 0,
-   "rain1h": 0.0,
-   "wind": 0.8,
-   "humidity": 61.0,
-   "observedAt": "2026-10-29T14:00:00+09:00",
-   "stale": true
-  },
-  "busan": {
-   "tempC": 16.0,
-   "pty": 0,
-   "rain1h": 0.0,
-   "wind": 1.2,
-   "humidity": 47.0,
-   "observedAt": "2026-10-29T14:00:00+09:00",
-   "stale": true
+   "humidity": 92.0,
+   "observedAt": "2026-10-30T03:00:00+09:00",
+   "stale": false
   },
   "ulsan": {
-   "tempC": 15.2,
+   "tempC": 13.2,
    "pty": 0,
    "rain1h": 0.0,
-   "wind": 2.5,
-   "humidity": 32.0,
-   "observedAt": "2026-10-29T14:00:00+09:00",
-   "stale": true
+   "wind": 1.4,
+   "humidity": 83.0,
+   "observedAt": "2026-10-30T03:00:00+09:00",
+   "stale": false
   },
   "jeju": {
-   "tempC": 18.5,
-   "pty": 0,
-   "rain1h": 0.0,
-   "wind": 3.8,
-   "humidity": 65.0,
-   "observedAt": "2026-10-29T14:00:00+09:00",
-   "stale": true
+   "tempC": 17.6,
+   "pty": 1,
+   "rain1h": 0.4,
+   "wind": 4.3,
+   "humidity": 83.0,
+   "observedAt": "2026-10-30T03:00:00+09:00",
+   "stale": false
   }
  },
- "failures": [
-  "seoul: URLError <urlopen error timed out>",
-  "incheon: URLError <urlopen error timed out>",
-  "daejeon: URLError <urlopen error timed out>",
-  "daegu: URLError <urlopen error timed out>",
-  "gwangju: URLError <urlopen error timed out>",
-  "busan: URLError <urlopen error timed out>",
-  "ulsan: URLError <urlopen error timed out>",
-  "jeju: URLError <urlopen error timed out>"
- ]
+ "failures": []
 }
