@@ -1,79 +1,79 @@
 {
  "version": 1,
- "generatedAt": "2026-11-06T03:45:03.507799+09:00",
+ "generatedAt": "2026-11-06T09:15:57.930912+09:00",
  "source": "KMA getUltraSrtNcst (기상청 초단기실황)",
  "attribution": "기상청",
  "cities": {
   "seoul": {
-   "tempC": 9.6,
+   "tempC": 5.6,
    "pty": 0,
    "rain1h": 0.0,
-   "wind": 1.4,
+   "wind": 4.2,
    "humidity": 59.0,
-   "observedAt": "2026-11-06T03:00:00+09:00",
+   "observedAt": "2026-11-06T08:00:00+09:00",
    "stale": false
   },
   "incheon": {
-   "tempC": 10.5,
-   "pty": 0,
-   "rain1h": 0.0,
-   "wind": 1.7,
-   "humidity": 49.0,
-   "observedAt": "2026-11-06T03:00:00+09:00",
-   "stale": false
-  },
-  "daejeon": {
-   "tempC": 11.9,
-   "pty": 0,
-   "rain1h": 0.0,
-   "wind": 2.3,
-   "humidity": 88.0,
-   "observedAt": "2026-11-06T03:00:00+09:00",
-   "stale": false
-  },
-  "daegu": {
-   "tempC": 9.6,
-   "pty": 0,
-   "rain1h": 0.0,
-   "wind": 0.5,
-   "humidity": 91.0,
-   "observedAt": "2026-11-06T03:00:00+09:00",
-   "stale": false
-  },
-  "gwangju": {
-   "tempC": 10.3,
-   "pty": 0,
-   "rain1h": 0.0,
-   "wind": 0.7,
-   "humidity": 93.0,
-   "observedAt": "2026-11-06T03:00:00+09:00",
-   "stale": false
-  },
-  "busan": {
-   "tempC": 12.0,
-   "pty": 0,
-   "rain1h": 0.0,
-   "wind": 1.0,
-   "humidity": 67.0,
-   "observedAt": "2026-11-06T03:00:00+09:00",
-   "stale": false
-  },
-  "ulsan": {
-   "tempC": 10.9,
+   "tempC": 6.6,
    "pty": 0,
    "rain1h": 0.0,
    "wind": 1.6,
-   "humidity": 76.0,
-   "observedAt": "2026-11-06T03:00:00+09:00",
+   "humidity": 59.0,
+   "observedAt": "2026-11-06T08:00:00+09:00",
+   "stale": false
+  },
+  "daejeon": {
+   "tempC": 8.0,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 1.2,
+   "humidity": 75.0,
+   "observedAt": "2026-11-06T08:00:00+09:00",
+   "stale": false
+  },
+  "daegu": {
+   "tempC": 11.8,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 0.8,
+   "humidity": 50.0,
+   "observedAt": "2026-11-06T08:00:00+09:00",
+   "stale": false
+  },
+  "gwangju": {
+   "tempC": 10.2,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 0.2,
+   "humidity": 64.0,
+   "observedAt": "2026-11-06T08:00:00+09:00",
+   "stale": false
+  },
+  "busan": {
+   "tempC": 12.3,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 1.4,
+   "humidity": 54.0,
+   "observedAt": "2026-11-06T08:00:00+09:00",
+   "stale": false
+  },
+  "ulsan": {
+   "tempC": 12.5,
+   "pty": 0,
+   "rain1h": 0.0,
+   "wind": 1.7,
+   "humidity": 50.0,
+   "observedAt": "2026-11-06T08:00:00+09:00",
    "stale": false
   },
   "jeju": {
-   "tempC": 17.1,
+   "tempC": 16.7,
    "pty": 0,
    "rain1h": 0.0,
-   "wind": 5.7,
-   "humidity": 67.0,
-   "observedAt": "2026-11-06T03:00:00+09:00",
+   "wind": 4.9,
+   "humidity": 62.0,
+   "observedAt": "2026-11-06T08:00:00+09:00",
    "stale": false
   }
  },
